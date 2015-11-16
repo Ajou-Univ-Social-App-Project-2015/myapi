@@ -1,0 +1,10 @@
+propel:
+    database:
+        connections:
+            default:
+                adapter: mysql
+                dsn: mysql:host=webauthoring.ajou.ac.kr;dbname=SOCIAL_APP_PROJECT_X
+                user: sap15X
+                password: sap15X!
+                settings:
+                    charset: utf8
